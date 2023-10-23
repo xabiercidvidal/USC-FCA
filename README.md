@@ -1,9 +1,9 @@
 # Universidade de Santiago de Compostela
 ## Facultade de Física - Master 
-## Física Computacional Avanzada 
+## Física computacional avanzada
 ## Python course: about functions and classes
-### author: J. A. Hernando
-### date  : October 2020
+### author: X. Cid Vidal, J. A. Hernando
+### date  : October 2023
 
 
 This repository contains Python-Notebooks and Python code for the lectures
