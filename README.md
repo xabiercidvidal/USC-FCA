@@ -3,7 +3,7 @@
 ## Física computacional avanzada
 ## Python course: about functions and classes
 ### author: X. Cid Vidal, J. A. Hernando
-### date  : October 2023
+### date  : October 2024
 
 
 This repository contains Python-Notebooks and Python code for the lectures
