@@ -5,7 +5,6 @@
 ### author: X. Cid Vidal, J. A. Hernando
 ### date  : October 2024
 
-
 This repository contains Python-Notebooks and Python code for the lectures
 on Computational Physics, Python course on Functions and Classes, of the Physics Master of the Universidade de Santiago de Compostela.
 
