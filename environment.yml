@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - jupyter
+  - jupyterlab_rise
   - rise
   - numpy
   - matplotlib
