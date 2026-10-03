@@ -1,0 +1,16 @@
+# instructor material, kept out of the public repository
+*_sols.ipynb
+unused_exercises.ipynb
+
+# files written by the notebooks (%%writefile) and by pytest
+mymath.py
+test_mymath.py
+poisson.py
+test_poisson.py
+shapes.py
+test_shapes.py
+myvector.py
+test_myvector.py
+.pytest_cache/
+__pycache__/
+.ipynb_checkpoints/
