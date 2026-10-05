@@ -1,5 +1,6 @@
 # instructor material, kept out of the public repository
 *_sols.ipynb
+*_sol.ipynb
 unused_exercises.ipynb
 
 # files written by the notebooks (%%writefile) and by pytest
